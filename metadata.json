@@ -1,0 +1,6 @@
+{
+  "name": "SMPN 1 Limboto",
+  "description": "Website Resmi SMPN 1 Limboto - BE GREEN, BE CLEAN, BE SMART. Menyediakan PPDB Online, Direktori GTK, Direktori Siswa, Manajemen Nilai, dan Portal Pengumuman Akademik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
