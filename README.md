@@ -1,3 +1,2 @@
-### 🌐 Live Demo
-Klik tautan berikut untuk melihat tampilan halaman:
-[Lihat Demo Website](https://github.io)
+### 📸 Tampilan Halaman
+![Tampilan Website](./contoh.png)
